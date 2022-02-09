@@ -1,0 +1,6 @@
+a=int(input("enter the value")
+Print(a>0)
+if(a%2==0):
+ Print("the a is even")
+else
+ Print ("the a is odd")
